@@ -1,0 +1,25 @@
+Programming Languages
+Category: Information Science
+Topic: Computer Programming, Computer Science
+Page: 1
+Words: 576
+Published: 03 December 2018
+Downloads: 105
+Download Print
+Pssst… we can write an original essay just for you.
+
+Any subject. Any type of essay.
+
+We’ll even meet a 3-hour deadline.
+
+GET YOUR PRICE
+122 writers online
+
+blank-ico
+Programming languages can either be compiled or interpreted; compiled languages are programs that are fully translated from source code to object code, for the target system to read in its specific language given to the processor and OS. On the other hand, interpreted languages are interpreted by the system line by line by another program – the interpreter which is often specialised for a certain computer. To interpret the language means to translate it to the system’s equivalent of that language; it could also be done by converting the program into a transitional code that can then be interpreted to the system’s specific language by the interpreter.
+
+It depends on the purpose of a program for whether compiled or interpreted is better, but each has general advantages/disadvantages that do not change. Compiled languages are much faster due to the not having every line of code individually interpreted when the program is booted or while running, but instead read directly by the computer. However, versions that are not compiled can be ported to many different systems as interpreters will make the program usable while compilers are a lot more difficult to develop.
+
+C++ is a common compiled language, many game engines such as CryEngine, Blender, and Unity are built in C++ as powerful object-oriented programming (OOP) language. An OOP language differs from procedural oriented programming (POP) in several ways – OOP has sections called objects that hold functions and data, this allows objects to be modified much easier than in POP, where the code just follows procedures (instructions that follow a specific order of statements). As in procedural languages, when new functions are added many modules will probably need to be changed – while object languages can add objects without changes as they can inherit data/functions due to objects already created.
+
+The build language of a game engine is responsible for the core game mechanics including a rendering engine for 3D animated graphics, physics engine to give a game its own laws of physics (otherwise known as collision detection), artificial intelligence to generate realistic acting NPCs that react to player’s actions, an audio engine, and many more components that make up a video game. This is supported by scripting languages such as Python or JavaScript that allow developers to implement visual game features/additions that do not change how a game runs so even if there are glitches and errors then it will only make the new addition bugged as the game’s code and the game engine’s code are separated. The scripting language for the engine also does not have to be compiled, so it is quicker to develop but without affecting the performance.
